@@ -1,1 +1,1 @@
-Projeto de gerneciamento de dados
+Projeto de gerenciamento de dados
